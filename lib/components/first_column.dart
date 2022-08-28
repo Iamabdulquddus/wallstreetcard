@@ -92,7 +92,7 @@ class FirstColumn extends StatelessWidget {
                      child: CircleAvatar(
                        backgroundColor: Colors.grey.shade100,
                        radius: 25,
-                       backgroundImage: AssetImage('abdulhameed.jpg'),
+                       backgroundImage: AssetImage('assets/images/abdulhameed.jpg'),
                      ),
                    ),
                    SizedBox(
